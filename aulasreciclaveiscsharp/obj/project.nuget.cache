@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/Z5npwJCcMMaHpY4j5jfhMv4xoyQ8qwWpYcq/0tH+KlGL1IrUcNyxogg2OHlGrrcEOFxbIJuAlFjrSASg73Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Documents\\C#\\cursodonelio\\aulasreciclaveiscsharp\\aulasreciclaveiscsharp\\aulasreciclaveiscsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

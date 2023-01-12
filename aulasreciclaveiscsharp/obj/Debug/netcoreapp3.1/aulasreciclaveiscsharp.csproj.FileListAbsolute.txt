@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.exe
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.deps.json
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.runtimeconfig.json
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.runtimeconfig.dev.json
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.dll
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\bin\Debug\netcoreapp3.1\aulasreciclaveiscsharp.pdb
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.AssemblyInfo.cs
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.dll
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.pdb
+C:\Users\Matheus\Documents\C#\cursodonelio\aulasreciclaveiscsharp\aulasreciclaveiscsharp\obj\Debug\netcoreapp3.1\aulasreciclaveiscsharp.genruntimeconfig.cache
